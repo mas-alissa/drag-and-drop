@@ -1,0 +1,13 @@
+.empty{
+    width:400px;
+    height: 200px;
+    border: 2px solid black;
+}
+
+.green{
+    background-color: green;
+}
+
+.red{
+    background-color: red;
+}
